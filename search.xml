@@ -5,10 +5,10 @@
     
     <entry>
       <title>java环境配置及下载</title>
-      <link href="/2023/01/12/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-java%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%8F%8A%E4%B8%8B%E8%BD%BD/"/>
-      <url>/2023/01/12/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-java%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%8F%8A%E4%B8%8B%E8%BD%BD/</url>
+      <link href="/2023/01/12/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-java-java%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%8F%8A%E4%B8%8B%E8%BD%BD/"/>
+      <url>/2023/01/12/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-java-java%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%8F%8A%E4%B8%8B%E8%BD%BD/</url>
       
-        <content type="html"><![CDATA[<h1 id="java环境配置及下载"><a href="#java环境配置及下载" class="headerlink" title="java环境配置及下载"></a>java环境配置及下载</h1><h1 id="一、jdk-下载"><a href="#一、jdk-下载" class="headerlink" title="一、jdk 下载"></a>一、jdk 下载</h1><p>jdk 的下载路径：<a href="https://www.oracle.com/java/technologies/downloads">https://www.oracle.com/java/technologies/downloads</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="java环境配置及下载"><a href="#java环境配置及下载" class="headerlink" title="java环境配置及下载"></a>java环境配置及下载</h1><h1 id="一、jdk-下载"><a href="#一、jdk-下载" class="headerlink" title="一、jdk 下载"></a>一、jdk 下载</h1><p>jdk 的下载路径：<a href="https://www.oracle.com/java/technologies/downloads">https://www.oracle.com/java/technologies/downloads</a><br><img src="/img/1.png" alt="Image text"></p>]]></content>
       
       
       <categories>
@@ -46,31 +46,6 @@
         <tags>
             
             <tag> 网站搭建 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第三篇文章</title>
-      <link href="/2022/01/11/%E6%9D%82%E9%A1%B9-2023-1-11-2/"/>
-      <url>/2022/01/11/%E6%9D%82%E9%A1%B9-2023-1-11-2/</url>
-      
-        <content type="html"><![CDATA[<h1 id="这是我的第三篇"><a href="#这是我的第三篇" class="headerlink" title="这是我的第三篇"></a>这是我的第三篇</h1><p> 1111</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 杂项 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 杂项 </tag>
             
         </tags>
       
@@ -121,6 +96,31 @@
         <tags>
             
             <tag> 游戏分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第三篇文章</title>
+      <link href="/2022/01/11/%E6%9D%82%E9%A1%B9-2023-1-11-2/"/>
+      <url>/2022/01/11/%E6%9D%82%E9%A1%B9-2023-1-11-2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是我的第三篇"><a href="#这是我的第三篇" class="headerlink" title="这是我的第三篇"></a>这是我的第三篇</h1><p> 1111</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂项 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂项 </tag>
             
         </tags>
       
