@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>第一篇文章</title>
-      <link href="/2023/01/08/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-2023-1-8%E6%9B%B4%E6%96%B0/"/>
-      <url>/2023/01/08/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-2023-1-8%E6%9B%B4%E6%96%B0/</url>
+      <title>java环境配置及下载</title>
+      <link href="/2023/01/12/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-java%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%8F%8A%E4%B8%8B%E8%BD%BD/"/>
+      <url>/2023/01/12/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-java%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%8F%8A%E4%B8%8B%E8%BD%BD/</url>
       
-        <content type="html"><![CDATA[<h1 id="这是我的第一篇"><a href="#这是我的第一篇" class="headerlink" title="这是我的第一篇"></a>这是我的第一篇</h1><p> 1111</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="java环境配置及下载"><a href="#java环境配置及下载" class="headerlink" title="java环境配置及下载"></a>java环境配置及下载</h1><h1 id="一、jdk-下载"><a href="#一、jdk-下载" class="headerlink" title="一、jdk 下载"></a>一、jdk 下载</h1><p>jdk 的下载路径：<a href="https://www.oracle.com/java/technologies/downloads">https://www.oracle.com/java/technologies/downloads</a></p>]]></content>
       
       
       <categories>
@@ -20,7 +20,7 @@
       
         <tags>
             
-            <tag> WZDJ </tag>
+            <tag> 网站搭建 </tag>
             
         </tags>
       
@@ -29,23 +29,23 @@
     
     
     <entry>
-      <title>第二篇文章</title>
-      <link href="/2022/01/11/%E5%AD%A6%E6%A0%A1-2023-1-11/"/>
-      <url>/2022/01/11/%E5%AD%A6%E6%A0%A1-2023-1-11/</url>
+      <title>第一篇文章</title>
+      <link href="/2023/01/08/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-2023-1-8%E6%9B%B4%E6%96%B0/"/>
+      <url>/2023/01/08/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-2023-1-8%E6%9B%B4%E6%96%B0/</url>
       
-        <content type="html"><![CDATA[<h1 id="第二篇"><a href="#第二篇" class="headerlink" title="第二篇"></a>第二篇</h1><p> 1111</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="这是我的第一篇"><a href="#这是我的第一篇" class="headerlink" title="这是我的第一篇"></a>这是我的第一篇</h1>]]></content>
       
       
       <categories>
           
-          <category> 学校 </category>
+          <category> 网站搭建 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> SCHOOL </tag>
+            <tag> 网站搭建 </tag>
             
         </tags>
       
@@ -70,7 +70,7 @@
       
         <tags>
             
-            <tag> miscellaneous </tag>
+            <tag> 杂项 </tag>
             
         </tags>
       
@@ -80,6 +80,31 @@
     
     <entry>
       <title>第二篇文章</title>
+      <link href="/2022/01/11/%E5%AD%A6%E6%A0%A1-2023-1-11/"/>
+      <url>/2022/01/11/%E5%AD%A6%E6%A0%A1-2023-1-11/</url>
+      
+        <content type="html"><![CDATA[<h1 id="第二篇"><a href="#第二篇" class="headerlink" title="第二篇"></a>第二篇</h1><p> 1111</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学校 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学校 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第四篇文章</title>
       <link href="/2022/01/11/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE-%E5%8A%A8%E6%BC%AB-2023-01-11/"/>
       <url>/2022/01/11/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE-%E5%8A%A8%E6%BC%AB-2023-01-11/</url>
       
@@ -95,7 +120,7 @@
       
         <tags>
             
-            <tag> game </tag>
+            <tag> 游戏分享 </tag>
             
         </tags>
       
